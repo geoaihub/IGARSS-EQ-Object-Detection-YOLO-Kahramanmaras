@@ -1,4 +1,3 @@
-
 # A Geospatial Dataframe Of Collapsed Buildings in Antakya City After The 2023 Kahramanmaraş Earthquakes Using Object Detection Based on YOLO and VHR Satellite Images
 
 <img  src="https://raw.githubusercontent.com/geoaihub/geoaihub/main/assets/Mersin%20GeoAI%20Hub%202.png"  height=400  width=1000  alt="https://github.com/geoaihub"/>  
@@ -93,7 +92,7 @@ The YOLO framework, known for its real-time object detection capabilities, was u
 
 ### Access to the Details
 
-For those interested in a deeper analysis, all experimental configurations, results, and detailed performance metrics have been documented and made available through a comprehensive **[spreadsheet of experiment results]()**. This document contains all the specifics of the experiments conducted, including model hyperparameters, optimizer settings, and corresponding performance metrics, offering full transparency into the experimental process. Here you can find all the details about the training process: **[1-Training]().**
+For those interested in a deeper analysis, all experimental configurations, results, and detailed performance metrics have been documented and made available through a comprehensive **[spreadsheet of experiment results](https://github.com/geoaihub/IGARSS-EQ-Object-Detection-YOLO-Kahramanmaras/blob/main/1-Training/Evaluation.xlsx)**. This document contains all the specifics of the experiments conducted, including model hyperparameters, optimizer settings, and corresponding performance metrics, offering full transparency into the experimental process. Here you can find all the details about the training process: **[1-Training](https://github.com/geoaihub/IGARSS-EQ-Object-Detection-YOLO-Kahramanmaras/tree/main/1-Training).**
 
 <br>
 
@@ -126,7 +125,7 @@ For more information on the **InferenceVision** library, please visit our [websi
 
 ### Access to the Details
 
-For a more detailed look at the results, please refer to the full documentation available in the **[2-Coordinate Localization]()**.
+For a more detailed look at the results, please refer to the full documentation available in the **[2-Coordinate Localization](https://github.com/geoaihub/IGARSS-EQ-Object-Detection-YOLO-Kahramanmaras/tree/main/2-Coordinate%20Localization)**.
 
 <br>
 
@@ -134,6 +133,6 @@ By combining YOLO’s object detection prowess with GIS-based geospatial analysi
 
 ## Citation
 
-If this dataset or model weights benefit your research, please cite our [paper]().
+If this dataset or model weights benefit your research, please cite our [paper](https://ieeexplore.ieee.org/document/10642920).
 
 <br>

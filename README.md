@@ -27,7 +27,7 @@ This work combines real-time object detection with GIS-based analysis to generat
 <br>
 
 **July 2024** 
-- Project successfully presenten on Athens/Greece on IEEE IGARSS 2024!
+- Project successfully presented on Athens/Greece on IEEE IGARSS 2024!
 
 **March 2024**  
 - Paper accepted to make an oral presentation on Athens/Greece on IEEE IGARSS 2024!

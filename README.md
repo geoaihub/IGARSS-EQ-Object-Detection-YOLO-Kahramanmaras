@@ -68,6 +68,8 @@ To ensure robust training and validation:
 
 This curated dataset was pivotal in detecting collapsed structures and accurately mapping their geolocations.
 
+<br>
+
 ## Training
 
 The YOLO framework, known for its real-time object detection capabilities, was utilized. Four YOLO variants—YOLOv7, YOLOv7x, YOLOv8l, and YOLOv8x—were trained on the dataset. Key highlights include:
@@ -127,9 +129,9 @@ For more information on the **InferenceVision** library, please visit our [websi
 
 For a more detailed look at the results, please refer to the full documentation available in the **[2-Coordinate Localization](https://github.com/geoaihub/IGARSS-EQ-Object-Detection-YOLO-Kahramanmaras/tree/main/2-Coordinate%20Localization)**.
 
-<br>
-
 By combining YOLO’s object detection prowess with GIS-based geospatial analysis, this study demonstrates a comprehensive framework for post-earthquake damage assessment.
+
+<br>
 
 ## Citation
 

@@ -6,6 +6,8 @@
 
 This section highlights the Coordinate Localization process used to generate precise geographic insights post-inference. Prediction results covered approximately **28 km²** in the Antakya City Center.
 
+<br>
+
 ## Overview
 
 Coordinate localization involved:
@@ -16,15 +18,16 @@ Coordinate localization involved:
 
 Prediction inference map illustrates the YOLOv7 predictions, displaying a map that highlights both collapsed and non-collapsed buildings in the disaster-stricken area. The analysis covers an area of approximately 28.20 km² in the city center of Antakya, with predictions made on 729 high-resolution image frames. The object detection process demonstrated high efficiency, successfully identifying 7,037 buildings in just 47.241 seconds.
 
-<img src="" alt=""/>
+<img src="https://github.com/geoaihub/IGARSS-EQ-Object-Detection-YOLO-Kahramanmaras/blob/main/assets/closer_look_YOLOv7.png" alt="Prediction Inference"/>
 
 ### Heatmap
 
-The heatmap illustrates the spatial density of collapsed buildings across the region. High-density areas are represented with warmer colors (e.g., red).
+The heatmap illustrates the spatial density of collapsed buildings across the region. High-density areas are represented with warmer colors (e.g., red). Heatmaps provide several benefits:
 
-![Heatmap](heatmap_marker.png)
-
-<img src="" alt=""/>
+- **Intuitive Representation:** Easily identifies hotspots of collapsed buildings.
+- **Spatial Trends:** Highlights clusters or patterns in damage distribution.
+- **Resource Allocation:** Guides emergency teams to areas requiring immediate attention.
+- **Comparison Tool:** Helps compare before-and-after scenarios or evaluate model performance.
 
 ### Marker Map
 
@@ -43,6 +46,17 @@ Building ID: 5
 Class: collapsed
 Probability: 0.78173601789622
 ```
+
+#### Marker Map Benefits
+
+- **Detailed Insights:** Enables building-by-building analysis for precise planning.
+- **Interactive Visualization:** Metadata supports advanced tools like map overlays.
+- **Accountability:** Facilitates documentation and cross-verification of predictions.
+- **Stakeholder Communication:** Offers clarity and transparency for various agencies.
+
+<img src="https://raw.githubusercontent.com/geoaihub/IGARSS-EQ-Object-Detection-YOLO-Kahramanmaras/refs/heads/main/assets/heatmap_marker.png" alt="Heatmap and Marker"/>
+
+<br>
 
 ## Key Insights
 

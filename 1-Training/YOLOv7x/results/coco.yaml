@@ -1,0 +1,10 @@
+# COCO 2017 dataset http://cocodataset.org
+
+train: ../train
+val: ../val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['collapsed', 'non_collapsed']

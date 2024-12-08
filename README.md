@@ -137,4 +137,21 @@ By combining YOLO’s object detection prowess with GIS-based geospatial analysi
 
 If this dataset or model weights benefit your research, please cite our [paper](https://ieeexplore.ieee.org/document/10642920).
 
+BibTeX:
+
+    @INPROCEEDINGS{10642920,
+      author={Ilmak, Dogu and Iban, Muzaffer Can and Zafer Şeker, Dursun},
+      booktitle={IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium}, 
+      title={A Geospatial Dataframe of Collapsed Buildings in Antakya City after the 2023 Kahramanmaraş Earthquakes Using Object Detection Based on YOLO and VHR Satellite Images}, 
+      year={2024},
+      volume={},
+      number={},
+      pages={3915-3919},
+      keywords={YOLO;Buildings;Urban areas;Earthquakes;Geoscience and remote sensing;Satellite images;Sensors;Geospatial analysis;Context modeling;Deep Learning;Object Detection;Very High-Resolution Satellite Imagery;Remote Sensing;Earthquake Damage Assessment},
+      doi={10.1109/IGARSS53475.2024.10642920}}
+
+Plain Text:
+
+D. Ilmak, M. C. Iban and D. Zafer Şeker, "A Geospatial Dataframe of Collapsed Buildings in Antakya City after the 2023 Kahramanmaraş Earthquakes Using Object Detection Based on YOLO and VHR Satellite Images," IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athens, Greece, 2024, pp. 3915-3919, doi: 10.1109/IGARSS53475.2024.10642920.
+
 <br>
